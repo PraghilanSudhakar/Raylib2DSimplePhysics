@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/praghilansudhakar/Desktop/Dev/raylib-cpp-starter/src",
-      "program": "/Users/praghilansudhakar/Desktop/Dev/raylib-cpp-starter/src/build/Debug/outDebug"
+      "cwd": "/Users/praghilansudhakar/Desktop/Dev/raylib-physics/src",
+      "program": "/Users/praghilansudhakar/Desktop/Dev/raylib-physics/src/build/Debug/outDebug"
     }
   ]
 }
